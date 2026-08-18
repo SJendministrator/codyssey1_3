@@ -222,7 +222,7 @@ abs(score_a-score_b)<1e-9
 
 ## 사용자 입력 모드
 
-![User Input](images/user_input.png)
+![User Input](src/user_input.png)
 
 Cross 필터와 Pattern이 동일한 경우
 
@@ -239,8 +239,7 @@ Result : Cross
 
 ## JSON 분석
 
-![JSON](images/json_result.png)
-
+![JSON](src/json_result.png)
 모든 데이터를 자동 분석하여
 
 - PASS
